@@ -27,7 +27,7 @@ export const whetstone = {
   name: 'Whetstone',
   line: 'A journal that judges your day, in the style of a dark fantasy game.',
   live: 'https://whetstone-mauve.vercel.app',
-  source: '', // the repo is private for now; add 'https://github.com/Shakir31/whetstone' once it is public
+  source: 'https://github.com/Shakir31/whetstone',
   tags: ['React', 'Supabase', 'Gemini API', 'Vercel'],
   screenshot: '/screenshots/whetstone.png',
   whatItIs:
