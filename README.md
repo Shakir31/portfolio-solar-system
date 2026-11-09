@@ -20,10 +20,6 @@ All text and links are in [src/content.ts](src/content.ts).
   and set the path in `content.ts` (e.g. `screenshot: '/screenshots/manaheart-home.png'`).
 - Smaller projects: edit the `smallProjects` list. The first four also appear as planets.
 
-## Deploying
-
-Import the repo into Vercel. It detects Vite automatically (build command `npm run build`, output `dist`).
-
 ## Structure
 
 - `src/components/SolarSystem.tsx`: the animated planets band
